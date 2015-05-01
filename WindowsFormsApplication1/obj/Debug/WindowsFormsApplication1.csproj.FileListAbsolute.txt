@@ -1,0 +1,16 @@
+c:\users\sebastian\documents\visual studio 2013\Projects\LotF-Language-Patcher\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\sebastian\documents\visual studio 2013\Projects\LotF-Language-Patcher\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\sebastian\documents\visual studio 2013\Projects\LotF-Language-Patcher\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\sebastian\documents\visual studio 2013\Projects\LotF-Language-Patcher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\sebastian\documents\visual studio 2013\Projects\LotF-Language-Patcher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\sebastian\documents\visual studio 2013\Projects\LotF-Language-Patcher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\sebastian\documents\visual studio 2013\Projects\LotF-Language-Patcher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\sebastian\documents\visual studio 2013\Projects\LotF-Language-Patcher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ssaenger\Desktop\visual test\gui\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ssaenger\Desktop\visual test\gui\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ssaenger\Desktop\visual test\gui\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ssaenger\Desktop\visual test\gui\WindowsFormsApplication1\bin\Debug\Lords of the Fallen (RU) Language Patcher.exe.config
+C:\Users\ssaenger\Desktop\visual test\gui\WindowsFormsApplication1\bin\Debug\Lords of the Fallen (RU) Language Patcher.exe
+C:\Users\ssaenger\Desktop\visual test\gui\WindowsFormsApplication1\bin\Debug\Lords of the Fallen (RU) Language Patcher.pdb
+C:\Users\ssaenger\Desktop\visual test\gui\WindowsFormsApplication1\obj\Debug\Lords of the Fallen (RU) Language Patcher.exe
+C:\Users\ssaenger\Desktop\visual test\gui\WindowsFormsApplication1\obj\Debug\Lords of the Fallen (RU) Language Patcher.pdb
